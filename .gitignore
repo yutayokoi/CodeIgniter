@@ -11,3 +11,5 @@ build
 vendor/
 composer.phar
 application/logs/
+application/config/database.php
+
