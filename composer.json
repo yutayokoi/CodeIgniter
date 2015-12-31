@@ -9,7 +9,8 @@
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*",
 		"kenjis/codeigniter-cli": "^0.1.0",
-		"kenjis/ci-phpunit-test": "^0.10.0",
-		"kenjis/codeigniter-deployer": "1.0.x@dev"
+		"kenjis/ci-phpunit-test": "^0.10.1",
+		"kenjis/codeigniter-deployer": "1.0.x@dev",
+		"phpunit/phpunit": "4.8.*"
 	}
 }
